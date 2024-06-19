@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище RemontnikModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Remont">
+    <Key>
+      <PropertyRef Name="Номер" />
+    </Key>
+    <Property Name="Номер" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Статус" Type="varchar" MaxLength="255" />
+    <Property Name="Дата_начала" Type="varchar" MaxLength="255" />
+    <Property Name="Дата_завершения" Type="varchar" MaxLength="255" />
+    <Property Name="Имя" Type="varchar" MaxLength="255" />
+    <Property Name="Оборудование" Type="varchar" MaxLength="255" />
+    <Property Name="Тип" Type="varchar" MaxLength="255" />
+    <Property Name="Описание" Type="varchar" MaxLength="255" />
+    <Property Name="Ответственный" Type="varchar" MaxLength="255" />
+    <Property Name="Комментарий" Type="varchar" MaxLength="255" />
+    <Property Name="Логин" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Имя" Type="varchar" MaxLength="255" />
+    <Property Name="Логин" Type="varchar" MaxLength="255" />
+    <Property Name="Пароль" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityContainer Name="Хранилище RemontnikModelContainer">
+    <EntitySet Name="Remont" EntityType="Self.Remont" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

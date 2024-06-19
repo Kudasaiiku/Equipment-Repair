@@ -1,0 +1,177 @@
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\Remontnik.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\ManagerWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\ManagerWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Editing.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Editing.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\UserWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\UserWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\StatisticWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Практика 4 курс\RemontnikApp\Remontnik\Remontnik\obj\Debug\StatisticWindow.baml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\Remontnik.exe.config
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\Remontnik.exe
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\Remontnik.pdb
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.dll
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.xml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.AssemblyReference.cache
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\StatisticWindow.g.cs
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Editing.g.cs
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\UserWindow.g.cs
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\ManagerWindow.g.cs
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\MainWindow.g.cs
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\App.g.cs
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.cache
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.lref
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\StatisticWindow.baml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Editing.baml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\UserWindow.baml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\ManagerWindow.baml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\MainWindow.baml
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.g.resources
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.Properties.Resources.resources
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.GenerateResource.cache
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CoreCompileInputs.cache
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CopyComplete
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.exe
+C:\Users\Front\Desktop\RemontnikApp\Remontnik\Remontnik\obj\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\Remontnik.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\StatisticWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Editing.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\UserWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\ManagerWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\StatisticWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Editing.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\UserWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\ManagerWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Remontnik\Remontnik\obj\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\Remontnik.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\StatisticWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Editing.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\UserWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\ManagerWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\StatisticWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Editing.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\UserWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\ManagerWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Ремонт оборудования\Remontnik\Remontnik\obj\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\Remontnik.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\StatisticWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Editing.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\UserWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\ManagerWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\StatisticWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Editing.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\UserWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\ManagerWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\ДЭ\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\Remontnik.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\Remontnik.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\StatisticWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Editing.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\UserWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\ManagerWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\StatisticWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Editing.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\UserWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\ManagerWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Приложение РЕМОНТ ОБОРУДОВАНИЯ\Remontnik\Remontnik\obj\Debug\Remontnik.pdb

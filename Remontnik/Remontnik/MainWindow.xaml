@@ -1,0 +1,60 @@
+﻿<Window x:Class="Remontnik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Remontnik"
+        mc:Ignorable="d"
+        Title="Ремонтник" Height="600" Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style x:Key="CustomButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#FF33D59C" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Padding" Value="10" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="20"/>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#21976D" />
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="border" Property="Background" Value="#21976D" />
+                                <Setter Property="Foreground" Value="White" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CustomTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Background" Value="#FFD6D6DA" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="BorderBrush" Value="{x:Null}" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="20">
+                            <ScrollViewer x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid x:Name="grid" Background="#FF1A202C">
+        <TextBox x:Name="LoginBox" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Center" VerticalContentAlignment="Center" Margin="0,0,0,315" Text="Логин" Width="224" Background="{x:Null}" BorderBrush="#FF2F3646" BorderThickness="3,3,3,3" Height="60" VerticalAlignment="Bottom" FontSize="25" Foreground="White" MaxLength="15"/>
+        <TextBox x:Name="PasswordBox" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Center" VerticalContentAlignment="Center" Margin="0,0,0,225" Text="Пароль" Width="224" BorderBrush="#FF2F3646" Background="{x:Null}" BorderThickness="3,3,3,3" Height="60" VerticalAlignment="Bottom" FontSize="25" Foreground="White" MaxLength="30"/>
+        <Button x:Name="AuthButton" Style="{StaticResource CustomButtonStyle}" Content="Войти" HorizontalAlignment="Center" Height="60" Margin="0,0,0,135" VerticalAlignment="Bottom" Width="224" FontSize="25" Cursor="Hand" Click="AuthButton_Click"/>
+        <Image Margin="0,0,0,410" Source="/4nepbcstomem7wcy4nhpbp6osdeapwfa4g8o.png" Stretch="Fill" Width="275" Height="42" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

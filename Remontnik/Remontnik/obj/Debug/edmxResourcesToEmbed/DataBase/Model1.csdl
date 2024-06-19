@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RemontnikModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Remont">
+    <Key>
+      <PropertyRef Name="Номер" />
+    </Key>
+    <Property Name="Номер" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Статус" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Дата_начала" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Дата_завершения" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Имя" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Оборудование" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Тип" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Описание" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Ответственный" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Комментарий" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Логин" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Имя" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Логин" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Пароль" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="RemontnikEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Remont" EntityType="Self.Remont" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+  </EntityContainer>
+</Schema>
